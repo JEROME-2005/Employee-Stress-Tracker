@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+scipy
+pillow
+matplotlib
+pynput
+python-docx
+numpy
